@@ -1,4 +1,4 @@
-# sample-vue1
+# Calculator With Vue
 
 ## Project setup
 ```
